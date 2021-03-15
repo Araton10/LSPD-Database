@@ -1,5 +1,5 @@
 # Dashboard
 
-[-] Added interaction with Database
-[-] Added Civilian Schedule
-[-] Added Complain
+-[x] Added interaction with Database
+-[x] Added Civilian Schedule
+-[x] Added Complain
